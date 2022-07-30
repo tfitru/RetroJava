@@ -26,7 +26,7 @@ public class TestFileCounting {
         FileCounting fc = new FileCounting();
         String actual = fc.ScanString(inputtext);
         System.out.println(actual);
-        assertTrue(expected.equals(actual));
+       	assertTrue(expected.equals(actual));
     }
 
     @Test
@@ -38,7 +38,7 @@ public class TestFileCounting {
         FileCounting fc = new FileCounting();
         String actual = fc.ScanString(inputtext);
         System.out.println(actual);
-        assertTrue(expected.equals(actual));
+       	assertTrue(expected.equals(actual));
     }
 
     @Test
@@ -50,7 +50,7 @@ public class TestFileCounting {
         FileCounting fc = new FileCounting();
         String actual = fc.ScanString(inputtext);
         System.out.println(actual);
-        assertTrue(expected.equals(actual));
+       	assertTrue(expected.equals(actual));
     }
 
     @Test
@@ -62,7 +62,7 @@ public class TestFileCounting {
         FileCounting fc = new FileCounting();
         String actual = fc.ScanString(inputtext);
         System.out.println(actual);
-        assertTrue(expected.equals(actual));
+       	assertTrue(expected.equals(actual));
     }
 
     @Test
@@ -74,7 +74,7 @@ public class TestFileCounting {
         FileCounting fc = new FileCounting();
         String actual = fc.ScanString(inputtext);
         System.out.println(actual);
-        assertTrue(expected.equals(actual));
+       	assertTrue(expected.equals(actual));
     }
 
     @Test
@@ -86,6 +86,6 @@ public class TestFileCounting {
         FileCounting fc = new FileCounting();
         String actual = fc.ScanString(inputtext);
         System.out.println(actual);
-        assertTrue(expected.equals(actual));
+       	assertTrue(expected.equals(actual));
     }
 }

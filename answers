@@ -1,0 +1,2 @@
+The only way to get a class file from a java file from the terminal is to compile it with the javac command.
+We need to compile it correctly and then will be able to call the method.
